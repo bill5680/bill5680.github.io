@@ -2,24 +2,37 @@
 layout: post
 title:  "Introduce myself"
 date:   2019-11-24 
-categories: Digital logic circuit
+categories: Digitallogiccircuit
 ---
-아 시발 ㅈ같다
-
+Available C language
 ```javascript
-const Razorpay = require('razorpay');
+C
+C++
+OpenGL
 
-let rzp = Razorpay({
-	key_id: 'KEY_ID',
-	secret: 'name'
-});
-
-// capture request
-rzp.capture(payment_id, cost)
-	.then(function (data) {
-		return 2;
-	})
 ```
+
+The Things I have done
+
+C
+```javascript
+Make Phonebook code 
+Make Hanoi Tower code
+Make Polynomial equation code
+Make Calculator
+```
+C++
+```javascript
+Make Matrix code
+Make Calculator
+```
+
+OpenGL
+```javascript
+Make rotating teapot and torus
+Make moving camera sight
+```
+
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
