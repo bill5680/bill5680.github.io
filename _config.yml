@@ -9,8 +9,8 @@ show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
-sass:
-  sass_dir: _sass
+#sass:
+  #sass_dir: _sass
 plainwhite:
   name: Sungmin Yoon
   tagline: Student. Kangwon Univ.
