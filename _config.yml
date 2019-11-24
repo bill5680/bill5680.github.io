@@ -14,7 +14,6 @@ sass:
 plainwhite:
   name: Sungmin Yoon
   tagline: Student. Kangwon University
-  tagline: Republic of South Korea
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
