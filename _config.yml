@@ -13,7 +13,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Sungmin Yoon
-  tagline: Student. Kangwon University
+  tagline: Student. Kangwon Univ.
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
