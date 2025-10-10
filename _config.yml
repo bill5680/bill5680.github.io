@@ -1,7 +1,7 @@
 title: Introduction
 description: 
 author: Sungmin Yoon
-avatar: /logo.png
+avatar: /resume.png
 email: bill5680@naver.com
 
 plugins:
@@ -36,7 +36,7 @@ exclude:
 twitter:
   username: ngzhio
   card: summary
-logo: logo.png
+logo: resume.png
 social:
   name: Sungmin Yoon
   links:
